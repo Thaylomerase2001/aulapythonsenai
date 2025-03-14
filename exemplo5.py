@@ -1,0 +1,1 @@
+#entrar com um valor e fazer a tabuada do valor de 1 até 10
